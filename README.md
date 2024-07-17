@@ -9,11 +9,12 @@
 - I have a great memory of remembering random things I learned a long time ago, e.g. literature, history, etc.
   
 🔭 I’m currently working on 
-- Statistical Arbitrage Pairs Trading Algorithm
+- [StatArb Pairs Trading](https://github.com/MJZMA/MM_Projects/blob/main/statarb_pairs_MM.ipynb), statistical arbitrage pairs trading strategy 
 - Automating DCF
 
 💎 Some past, notable projects
-- Historical Pulls
+- [Historical Pulls](https://github.com/MJZMA/MM_Projects/blob/main/pull_historicals.ipynb), pull historical income sheet, balance sheet, and cash flow statement Y/Q data from US public companies 
+- [Scrape Market News](https://github.com/MJZMA/MM_Projects/blob/main/scrape_news.ipynb), scrape headlines from Yahoo Finance 
 
 🌱 I’m currently learning ...
 - Optimization in asset allocation
