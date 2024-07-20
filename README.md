@@ -10,7 +10,7 @@
   
 🔭 I’m currently working on:
 - [StatArb Pairs Trading](https://github.com/MJZMA/MM_Projects/blob/main/statarb_pairs_MM.ipynb), statistical arbitrage pairs trading strategy 
-- Automating DCF
+- [Automating DCF](https://github.com/MJZMA/MM_Projects/blob/main/EDGAR_Downloader.ipynb), currently figuring out scraping EDGAR
 
 💎 Some past, notable projects:
 - [Historical Pulls](https://github.com/MJZMA/MM_Projects/blob/main/pull_historicals.ipynb), pull historical income sheet, balance sheet, and cash flow statement Y/Q data from US public companies 
