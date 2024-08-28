@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Michael Ma
 
 - I'm a Mathematics and Economics student at the University of Toronto St. George Campus
-- I'm currently at BMO as a Financial Analyst Intern making spreadsheets simpler, more efficient, and faster using VBA, Python, and SQL. I'll be joining OMERS as a Capital Markets Performance Analytics Intern in the fall. 
+- I'm currently interning at the Ontario Municipal Employees Retirement System (OMERS), a Canadian Pension fund, working on performance reporting and attribution.
 
 ⚡ Fun fact:
 - I can sing a song only after listening to it twice (with lyrics on hand ofc)
