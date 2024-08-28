@@ -17,6 +17,5 @@
 - [Scrape Market News](https://github.com/MJZMA/MM_Projects/blob/main/scrape_news.ipynb), scrape headlines from Yahoo Finance 
 
 🌱 I’m currently learning:
-- Optimization in asset allocation
-- Neural Networks and Unsupervised Machine Learning
+- C++ & ML Application
 
