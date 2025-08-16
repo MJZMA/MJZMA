@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Michael Ma
 
 - I'm a Mathematics and Economics student at the University of Toronto St. George Campus
-- I'm currently interning at the Ontario Municipal Employees Retirement System (OMERS), a Canadian Pension fund, working on performance reporting and attribution.
+- I interned at Citadel Securities, OMERS, and BMO.
 
 🔭 I’m currently working on:     
 - [Automating the Discounted Cash Flow (DCF) Model](https://github.com/MJZMA/Automating_DCF), automate DCF to facilitate investment research
